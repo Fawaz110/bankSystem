@@ -10,13 +10,13 @@ Admin saved data :
 
 Employees saved data : 
 
-      Employeec 1 :
+      Employee 1 :
             id       : 1
             name     : Eng_Mo_Hashem
             password : route1722
             balance  : 7400
             
-        Employeec 2 :
+        Employee 2 :
             id       : 2
             name     : Eng_Ahmed_Abdo
             password : route1722
